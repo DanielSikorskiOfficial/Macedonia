@@ -281,7 +281,7 @@ td {
 .img_border {
     border: 2px;
     border-top: 0px;
-    border-style: solid;
+    border-style: ridge;
 }
 
 
